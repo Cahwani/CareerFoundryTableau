@@ -6,5 +6,7 @@ A global commitment to achieving net‐zero emissions by 2050 has led government
 
 
 **Data**
-Data downloaded from Kaggle.com
+
+Data downloaded from Kaggle.com and nasdaq.com
+
 Tableau storyboard link: https://public.tableau.com/app/profile/chipo.hwani/viz/GlobalCO2Emissions_16790602860570/GlobalCO2Emissions
